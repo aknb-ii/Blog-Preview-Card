@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code URL](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [Code URL](https://github.com/aknb-ii/Blog-Preview-Card)
+- Live Site URL: [Live Demo](https://aknb-ii.github.io/Blog-Preview-Card/)
 
 ## My process
 
