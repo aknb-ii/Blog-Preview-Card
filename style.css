@@ -4,6 +4,7 @@
   --gray-500: hsl(0, 0%, 42%);
   --gray-950: hsl(0, 0%, 7%);
   --box-shadow: 0.625rem 0.625rem 0 rgba(0, 0, 0, 1);
+  --highlight:  hsl(228, 45%, 44%);
 }
 
 *{
@@ -91,5 +92,5 @@ p{
 .attribution { font-size: 0.6875rem; text-align: center;
   padding-block-start: 1.25rem;
 }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: var(--highlight); }
 
