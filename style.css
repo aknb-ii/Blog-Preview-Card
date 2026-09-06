@@ -27,18 +27,17 @@ body{
   height: 100vh;
 }
 
-p{
-  margin-block-start: 1.125rem ;
-  line-height: 1.6rem;
+h1{
+  margin-block-start: 1.25rem;
+  font-size: 1.625rem;
 }
-
 h1:hover{
  cursor: pointer;
 }
 
-h1{
-  margin-block-start: 1.25rem;
-  font-size: 1.625rem;
+p{
+  margin-block-start: 1.125rem ;
+  line-height: 1.6rem;
 }
 
 .blog-preview{
